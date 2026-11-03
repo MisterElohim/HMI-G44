@@ -1,0 +1,12 @@
+{
+    "name": "Proyecto_HMI_Grupo44",
+    "description": "Este proyecto pretende actualizar el sistema de visualización del grupo 44, obteniendo la información del PLC siemens y entregandolo de forma más amigable al operador y técnicos.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flowsG44.json",
+            "credentialsFile": "flowsG44_cred.json"
+        }
+    }
+}
