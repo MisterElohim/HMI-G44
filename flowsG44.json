@@ -64,6 +64,14 @@
         "env": []
     },
     {
+        "id": "81b8f3449a7fac8d",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "ef6066a9ccfb9078",
         "type": "subflow",
         "name": "Obtener Dato Real del Medidor de Energia",
